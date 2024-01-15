@@ -1,0 +1,16 @@
+/* Add this to your CSS */
+.email-button {
+    background-color: #7851A9;
+  padding: 12px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  width:100%;
+  color: white;
+  
+  }
+  
+  .email-button:hover {
+    background-color: #2196f3;
+  }
+  
